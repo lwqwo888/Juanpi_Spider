@@ -99,3 +99,19 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+*.pyc
+*/juanpi_multimedia_datas/
+juanpi_multimedia_datas/
+juanpi_multimedia_datas/*
+*.jpg
+*.jpeg
+*.mp4
+*.png
+*.gif
+*.SS2
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
